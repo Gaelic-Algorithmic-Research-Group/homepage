@@ -4,12 +4,9 @@
 From an easy-to-use, flexible website template, including automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel and more time running your lab.
 
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
-
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
+#### TODO
+- [ ] discuss with Will
+- [ ] Calendar
 
 ## Features
 
