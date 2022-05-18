@@ -1,12 +1,18 @@
 <h1 align="center">Gaelic-Algorithmic-Research-Group</h1>
 <p align="center">
 </p>
-From an easy-to-use, flexible website template, including automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel and more time running your lab.
+
+## [Notion](https://extreme-yacht-07f.notion.site/Gaelic-Mini-Dashboard-901a933cfe14452d92d969c28431bdf1)
+| Wiki     | Research | Fun      |
+| -------- | -------- | -------- |
+| [Setup](https://www.notion.so/Setup-2e213b77dc73439ca41da29bfd4e9f81)    | Learn    | Projects |
+| [Gaelic](https://www.notion.so/Gaelic-157b0ad045ff48179d12947bcd152860)   | Tools    | Blog     |
+| Contact  | Week     | Overleaf |
+| HomePage | Issues   | PPT      |
 
 #### TODO
 - [ ] discuss with Will
-- [ ] Calendar
+- [x] Calendar
 
 ## Features
 
